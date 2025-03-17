@@ -55,10 +55,6 @@ As fontes foram importadas do Google Fonts:
 3. **Sorteio**:
    - Clique no botão "Sortear Amigo" para descobrir o amigo secreto.
 
-## 📸 Screenshot
-
-Adicione uma imagem aqui para demonstrar o visual do projeto (opcional).
-
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
